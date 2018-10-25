@@ -1,1 +1,1 @@
-**App designed to let users show off their pronouns in social media bios and teach people how to use pronouns**
+**App designed to be a useful resource for people to communicate the personal pronoun they use**
